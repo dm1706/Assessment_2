@@ -4,3 +4,9 @@ The dataset represents ten years (1999-2008) of clinical care at 130 US hospital
 This is a basic data analysis and does not provide definitive conclusions. Further research is needed to validate the findings.
 Readmission rates may be influenced by hospital stay, medication counts, and lab procedures.
 Racial disparities and high-risk patients with more medications require further attention. 
+### Package Details
+
+| Package  | Description                     |
+|----------|---------------------------------|
+| pandas   | Data analysis and manipulation tool |
+| seaborn  | Data visualization library      |
